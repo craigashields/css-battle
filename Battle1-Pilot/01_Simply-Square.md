@@ -7,7 +7,7 @@
 
 ## Pretty Solution
 
-Characters: 65
+Characters: 75
 
 ```HTML
 <p style="width: 0; box-shadow: 0+0+0+64vh#b5e0ba, 0+0+0+100vw#5d3a3a"></p>
@@ -15,7 +15,7 @@ Characters: 65
 
 ## Optimised Solution
 
-Characters: 75
+Characters: 67
 
 ```HTML
 <p style=width:0;box-shadow:0+0+0+64vh#b5e0ba,0+0+0+100vw#5d3a3a>
