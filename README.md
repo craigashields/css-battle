@@ -37,7 +37,7 @@ Each `md` file will include the following
 | [05 Acid Rain](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/05_Acid-Rain.md)         | 1 Pilot | 297        | 623.59 | 100    | 
 | [06 Missing Slice](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/06_Missing-Slice.md) | 1 Pilot | 199        | 660.03 | 100    | 
 | [07 Leafy Trail](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/07_Leafy-Trail.md)     | 1 Pilot | 251        | 636.57 | 100    | 
-| [08 Forking Crazy](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/08_Forking-Crazy-INCOMPLETE.md) | 1 Pilot | 0          | 0      | 0      | 
+| [08 Forking Crazy](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/08_Forking-Crazy-INCOMPLETE.md) | 1 Pilot | 424          | 607.03      | 100      | 
 | [09 Tesseract](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/09_Tesseract.md)         | 1 Pilot | 353        | 613.83 | 100    | 
 | [10 Cloaked Spirits](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/10_Cloaked-Spirits.md)         | 1 Pilot | 492        | 603.68 | 100    | 
 | [11 Eye of Sauron](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/11_Eye-of-Sauron.md)         | 1 Pilot | 438        | 606.15 | 100    | 
