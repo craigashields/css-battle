@@ -22,7 +22,7 @@ Each `md` file will include the following
 &nbsp;
 | Global Rank     | Total Score | Targets Played |
 | -------------   |-------------| ---------------|
-| 6720th / 184819 | 11467.24    |  18/106        |
+| 4918th / 185031 | 14027.28    |  22/106        |
 &nbsp;
 
 ### Per Challenge
@@ -42,6 +42,12 @@ Each `md` file will include the following
 | [10 Cloaked Spirits](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/10_Cloaked-Spirits.md)         | 1 Pilot | 492        | 603.68 | 100    | 
 | [11 Eye of Sauron](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/11_Eye-of-Sauron.md)         | 1 Pilot | 438        | 606.15 | 100    | 
 | [12 Wiggly Moustache](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/12_Wiggly-Moustache.md)         | 1 Pilot | 507        | 603.19 | 100  |   
+|  |  |  |  |   | 
+| [13 Totally Triangle](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibilty/13_Totally-Triangle.md)         | 2 Visibility | 507        | 603.19 | 100  |   
+| [14 Web Maker Logo](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibilty/14_Web-Maker-Logo.md)         | 2 Visibility | 370        | 611.76 | 100  |   
+| [15 Overlap](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibilty/15_Overlap.md)         | 2 Visibility | 118        | 677.64 | 100  |   
+| [16 Eye of the Tiger](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibilty/16_Eye-of-the-Tiger.md)         | 2 Visibility | 354        | 613.7 | 100  |   
+| [17 Fidget Spinner](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibilty/17_Fidget-Spinner.md)         | 2 Visibility | 306        | 621.65 | 100  |   
 
 &nbsp;
 
