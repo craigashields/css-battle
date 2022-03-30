@@ -43,11 +43,11 @@ Each `md` file will include the following
 | [11 Eye of Sauron](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/11_Eye-of-Sauron.md)         | 1 Pilot | 438        | 606.15 | 100    | 
 | [12 Wiggly Moustache](https://github.com/craigashields/css-battle/blob/main/Battle1-Pilot/12_Wiggly-Moustache.md)         | 1 Pilot | 507        | 603.19 | 100  |   
 |  |  |  |  |   | 
-| [13 Totally Triangle](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibilty/13_Totally-Triangle.md)         | 2 Visibility | 507        | 603.19 | 100  |   
-| [14 Web Maker Logo](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibilty/14_Web-Maker-Logo.md)         | 2 Visibility | 370        | 611.76 | 100  |   
-| [15 Overlap](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibilty/15_Overlap.md)         | 2 Visibility | 118        | 677.64 | 100  |   
-| [16 Eye of the Tiger](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibilty/16_Eye-of-the-Tiger.md)         | 2 Visibility | 354        | 613.7 | 100  |   
-| [17 Fidget Spinner](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibilty/17_Fidget-Spinner.md)         | 2 Visibility | 306        | 621.65 | 100  |   
+| [13 Totally Triangle](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibility/13_Totally-Triangle.md)         | 2 Visibility | 507        | 603.19 | 100  |   
+| [14 Web Maker Logo](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibility/14_Web-Maker-Logo.md)         | 2 Visibility | 370        | 611.76 | 100  |   
+| [15 Overlap](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibility/15_Overlap.md)         | 2 Visibility | 118        | 677.64 | 100  |   
+| [16 Eye of the Tiger](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibility/16_Eye-of-the-Tiger.md)         | 2 Visibility | 354        | 613.7 | 100  |   
+| [17 Fidget Spinner](https://github.com/craigashields/css-battle/blob/main/Battle2-Visibility/17_Fidget-Spinner.md)         | 2 Visibility | 306        | 621.65 | 100  |   
 
 &nbsp;
 
